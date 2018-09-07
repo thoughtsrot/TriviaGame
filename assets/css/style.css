@@ -1,0 +1,14 @@
+* {
+  border: 1px dotted white;
+}
+
+body {
+
+  background-image: url(../images/tv-2115404_1280.png);
+  background-size: stretch;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+  color: black;
+
+}
